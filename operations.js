@@ -11,3 +11,10 @@ let c = 10
 let d = 3
 console.log("Remainder:", c%d)
 console.log(c,"*",d,"=", c*d )
+// console.log("c++=",c++ )
+// console.log("c=",c )
+// console.log("c--=",c-- )
+// console.log("c=",c)
+console.log("c**=",c**d)
+
+
